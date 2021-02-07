@@ -1,0 +1,28 @@
+body {
+    font-family: 'Yusei Magic', sans-serif;
+    background-image: url(/assets/img/burger.jpg);
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+}
+#main-div{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 20px;
+
+}
+button {
+    border-radius: 5px;
+}
+h1{
+    width: 35%;
+    margin: auto;
+}
+h2{
+    color: grey;
+}
+button {
+    margin: 10px;
+    padding: 2px;
+}
